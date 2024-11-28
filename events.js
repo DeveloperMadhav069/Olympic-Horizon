@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const events = [
-        'Acrobatic Gymnastics', 'Alpine Skiing', 'Archery', 'Artistic Gymnastics',
+        'Acrobatics Gymnastics', 'Alpine Skiing', 'Archery', 'Artistic Gymnastics',
         'Artistic Swimming', 'Athletics', 'Badminton', 'Baseball 5', 'Baseball Softball',
         'Basketball', 'Basketball 3x3', 'Beach Handball', 'Beach Volleyball', 'Biathlon',
         'Bobsleigh', 'Boxing', 'Breaking', 'Canoe Slalom', 'Canoe Sprint', 'Coastal Rowing',
